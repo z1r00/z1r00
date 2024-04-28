@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://www.z1r0.top/atom.xml
+          blog_rss_link: z1r0.top/atom.xml
