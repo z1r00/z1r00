@@ -12,6 +12,6 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: gautamkrishnar/blog-post-workflow@1.8.7
         with:
           blog_rss_link: z1r0.top/atom.xml
