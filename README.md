@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - [Pwn2Own-RAX30 Routers漏洞分析](https://www.z1r0.top/2023/09/19/Pwn2Own-RAX30-Routers%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1r00)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1r00&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
