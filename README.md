@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 ### GitHub Stats 🛠️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1r00&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+
+### Activity Graph 📈
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=z1r00&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
