@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 - [uC-HTTP漏洞分析](https://www.z1r0.top/2023/11/27/uC-HTTP%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 - [Pwn2Own-RAX30 Routers漏洞分析](https://www.z1r0.top/2023/09/19/Pwn2Own-RAX30-Routers%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 <!-- BLOG-POST-LIST:END -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
